@@ -1,18 +1,18 @@
-_Last updated: 06. December, 2023_
+_Last modified: 10th of Feburary, 2024_
 
 # Acceptable Usage Policy
 
-This **Acceptable Usage Policy** (**AUP**) applies to the official instance of Revolt available at [revolt.chat](http://revolt.chat). Self-hosted instances may choose to adopt this AUP if they wish.
+This **Acceptable Usage Policy (AUP)** applies to the official instance of Revolt available at [revolt.chat](http://revolt.chat). Self-hosted instances may opt to adhere to this AUP at their discression.
 
 ## Community Guidelines
 
-**Revolt** can cater to your community, raid guild, study group and anything in-between. We encourage you to:
+**Revolt** is a versatile platform designed to accommodate a wide range of communities, from raid guilds to study groups and everything in between. We encourage you to:
 
-- Take advantage of our powerful community tools.
-- Be kind and make friends with others on our platform.
+- Utilise our powerful community tools.
+- Foster kindness and forge meaningful connections with others on our platform.
 - Have fun talking and sharing content on our platform.
 
-Online communities have the potential to change people's lives, so we want to encourage a positive environment for anyone willing to join.
+Online communities have huge potential to impact people's lives, so we strive to cultivate a welcoming and positive environment for all who choose to participate.
 
 ### Keeping You Safe
 
@@ -34,19 +34,19 @@ To ensure users stay safe on the platform, we disallow:
 
 - **Promoting, encouraging or glorifying self-harm or suicide**
 
-  This includes any content that pushes people to cut or injure themselves; that embraces eating disorders such as anorexia or bulimia; or that encourages people to commit suicide as opposed to referring them to the correct treatment and help. If you notice someone in need of urgent help, _please contact your local authorities_.
-
-- **Promoting, organising or engaging in illegal behaviour on platform**
-
-  TODO
+  This includes any content that encourages people to cut or otherwise injure themselves; that embraces eating disorders such as anorexia or bulimia; or that encourages people to commit suicide as opposed to referring them to the correct treatment and help. If you notice someone in need of urgent help, _please contact your local authorities_.
 
 - **Promoting off-platform content that violates our acceptable usage policy**
 
   TODO
 
-- **Sharing any deemed illegal**
+- **Promoting, organising or engaging in illegal behaviour on platform**
 
-  This includes - but is not limited to - sharing any pornography that is subject to legal age restrictions, pornography that depicts minors, revenge pornography, the selling or facilitating the usage of illegal drugs, extortion or blackmail.
+  TODO
+
+- **Sharing any content deemed illegal**
+
+  This includes, but is not limited to, sharing any pornography that is subject to legal age restrictions, pornography that depicts minors, revenge pornography, the selling or facilitating the usage of illegal drugs, extortion or blackmail.
 
   Information about our jurisdictions are provided at the bottom of this document.
 
@@ -133,13 +133,15 @@ To ensure users have equal opportunity to use the service and are not taken adva
 
   TODO
 
-To report any of the above activity, please use the in-app reporting system. If you cannot use the in-app reporting system for any reason, please contact us at [abuse@revolt.chat](mailto:abuse@revolt.chat).
+To report any activity falling within the aforementioned categories, kindly utilize our in-app reporting system. If, for any reason, you are unable to access or use the in-app reporting system, please don't hesitate to contact us directly at [abuse@revolt.chat](mailto:abuse@revolt.chat). We are committed to addressing any concerns promptly and effectively.
 
 ### Strikes
 
-Strikes are **irreversible**. Account suspensions can be removed through a successful appeal, but only if you believe that we took the wrong action. There is no point asking to be appealed for breaking the law.
+Strikes on your account are permanent and **cannot be reversed**. However, if you believe that we have made an erroneous decision resulting in your account suspension, you can request an appeal.
 
-If you would like to appeal a suspension, please contact [abuse@revolt.chat](mailto:abuse@revolt.chat).
+Please note that appeals are only considered if you believe there has been a mistake in our enforcement actions, not for violations of the law.
+
+To appeal a suspension, please reach out to [abuse@revolt.chat](mailto:abuse@revolt.chat).
 
 ### Jurisdiction
 
